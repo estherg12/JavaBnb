@@ -1,0 +1,27 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+-------------------------------- Fecha: 26/05/2024 -------------------------------
+
+
+Inmueble: Sol y Mar
+Ciudad: Valencia
+Tipo: Apartamento
+
+Nombre: Sol y Mar
+Anfitrion: Cliente: tipo = nullcorreoElectronico = esther@gmail, clave = 1357$, 
+dni = 00000000 A, nombre = Esther, telefono = 999 99 99 99.
+Anfitrion: fechaRegistro = 2024-05-08, superAnfitrion = false}
+Particular: Cliente: tipo = particularcorreoElectronico = laura@outlook, clave = 1234&, 
+dni = 01010101 C, nombre = Laura, telefono = 600 00 00 00particular{vip=false, tarjetaCredito=tarjetaCredito{, numero=9999 1111 9999 1111 9999, fechaCaducidad=Wed May 24 20:46:00 CEST 2028}}
+
+
+Fecha de Entrada: Mon Jun 03 21:19:16 CEST 2024
+Fecha de Salida: Thu Jun 06 21:19:16 CEST 2024
+Precio por noche: 90.0
+Noches: -2
+---------------------------------------------------------------------------------
+IMPORTE: -180.0
+
+
+-------------------------------------------------------------------------------

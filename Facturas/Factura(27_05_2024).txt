@@ -1,0 +1,27 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+-------------------------------- Fecha: 27/05/2024 -------------------------------
+
+
+Inmueble: Floral Sun
+Ciudad: Valencia
+Tipo: Casa
+
+Nombre: Floral Sun
+Anfitrion: Cliente: tipo = nullcorreoElectronico = esther@gmail, clave = 1357$, 
+dni = 00000000 A, nombre = Esther, telefono = 999 99 99 99.
+Anfitrion: fechaRegistro = 2024-05-08, superAnfitrion = false}
+Particular: Cliente: tipo = particularcorreoElectronico = carlos@outlook, clave = 5678@, 
+dni = 09911122 F, nombre = Carlos, telefono = 609 09 09 09particular{vip=false, tarjetaCredito=tarjetaCredito{, numero=1111 1111 2222 2222 3333, fechaCaducidad=Sat May 27 22:46:00 CEST 2028}}
+
+
+Fecha de Entrada: Tue Oct 01 23:04:33 CEST 2024
+Fecha de Salida: Fri Oct 04 23:04:33 CEST 2024
+Precio por noche: 85.2
+Noches: -2
+---------------------------------------------------------------------------------
+IMPORTE: -170.4
+
+
+-------------------------------------------------------------------------------

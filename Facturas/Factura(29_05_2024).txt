@@ -1,0 +1,27 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+-------------------------------- Fecha: 29/05/2024 -------------------------------
+
+
+Inmueble: Double Sight
+Ciudad: Valencia
+Tipo: Apartamento
+
+Nombre: Double Sight
+Anfitrion: Cliente: tipo = anfitrioncorreoElectronico = teresa@gmail, clave = 1111?, 
+dni = 13579246 Z, nombre = Teresa, telefono = 987 65 43 21.
+Anfitrion: fechaRegistro = 2024-05-25, superAnfitrion = false}
+Particular: Cliente: tipo = particularcorreoElectronico = pedro@gmail, clave = 2468%, 
+dni = 00000001 B, nombre = Pedro, telefono = 600 00 00 00particular{vip=false, tarjetaCredito=tarjetaCredito{, numero=1111 1111 1111 1111 1111, fechaCaducidad=Tue May 19 17:07:00 CEST 2026}}
+
+
+Fecha de Entrada: Wed Nov 20 11:18:36 CET 2024
+Fecha de Salida: Fri Nov 22 11:18:36 CET 2024
+Precio por noche: 97.5
+Noches: -1
+---------------------------------------------------------------------------------
+IMPORTE: -97.5
+
+
+-------------------------------------------------------------------------------

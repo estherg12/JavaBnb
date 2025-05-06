@@ -1,0 +1,27 @@
+-------------------------------- Factura Reserva --------------------------------
+
+
+-------------------------------- Fecha: 20/02/2025 -------------------------------
+
+
+Inmueble: Double Optimix
+Ciudad: Madrid
+Tipo: Apartamento
+
+Nombre: Double Optimix
+Anfitrion: Cliente: tipo = anfitrioncorreoElectronico = juan@outlook, clave = 0246!, 
+dni = 12345678 D, nombre = Juan, telefono = 654 32 10 98.
+Anfitrion: fechaRegistro = 2024-05-24, superAnfitrion = false}
+Particular: Cliente: tipo = particularcorreoElectronico = laura@outlook, clave = 1234&, 
+dni = 01010101 C, nombre = Laura, telefono = 600 00 00 00particular{vip=false, tarjetaCredito=tarjetaCredito{, numero=9999 1111 9999 1111 9999, fechaCaducidad=Wed May 24 20:46:00 CEST 2028}}
+
+
+Fecha de Entrada: Thu Feb 27 13:33:28 CET 2025
+Fecha de Salida: Fri Feb 28 13:33:27 CET 2025
+Precio por noche: 105.0
+Noches: 0
+---------------------------------------------------------------------------------
+IMPORTE: 0.0
+
+
+-------------------------------------------------------------------------------
